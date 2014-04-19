@@ -1,0 +1,11 @@
+{
+  "name": "BlockMe",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.3.0",
+    "grunt-node-webkit-builder": "^0.1.20",
+    "grunt-contrib-less": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
